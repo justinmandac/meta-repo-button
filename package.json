@@ -1,0 +1,11 @@
+{
+  "name": "meta-repo-button",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:justinmandac/meta-repo-button.git",
+  "author": "justinmandac <justinmandac@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2"
+  }
+}
